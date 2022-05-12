@@ -15,7 +15,7 @@
 
 - 📫 Reach me through **jrowah@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FTQeq39RQMhv7aaWRh9Nxlp3MgQIy9O8/edit](https://docs.google.com/document/d/1FTQeq39RQMhv7aaWRh9Nxlp3MgQIy9O8/edit)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1FTQeq39RQMhv7aaWRh9Nxlp3MgQIy9O8/edit](https://docs.google.com/document/d/1FTQeq39RQMhv7aaWRh9Nxlp3MgQIy9O8/edit) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
