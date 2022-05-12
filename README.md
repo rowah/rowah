@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm James Rowa</h1>
 <h3 align="center">A self-taught and passionate software developer from Nairobi, Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
+ -->
 - 🔭 I’m currently working on [Simple Card Game](https://dreamy-stroopwafel-22ab9d.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
