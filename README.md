@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jrowah](https://medium.com/@jrowah)
 
-- 💬 Ask me about **React, Node,**
+- 💬 Ask me about **React, Node, AI**
 
 - 📫 Reach me through **jrowah@gmail.com**
 
