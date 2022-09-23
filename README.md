@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
-- 🔭 I’m currently working on [Simple Card Game](https://github.com/rowah/product-expiry-tracker-app)
+- 🔭 I’m currently working on [Product Expiry Tracker App](https://github.com/rowah/product-expiry-tracker-app)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 
