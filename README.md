@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 
-- 👨‍💻 All of my projects are available at at [jrowah.com](jrowah.com)
+- 👨‍💻 All of my projects are available at at [Resume](https://docs.google.com/document/d/1FTQeq39RQMhv7aaWRh9Nxlp3MgQIy9O8/edit)
 
 - 📝 I regularly write articles on [medium.com/@jrowah](medium.com/@jrowah)
 
