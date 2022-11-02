@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Product Expiry Tracker App](https://github.com/rowah/product-expiry-tracker-app)
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js**
+- 🌱 I’m currently learning **Elixir**
 
 - 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.com)
 
