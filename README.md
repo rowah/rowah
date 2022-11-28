@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.com)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@jrowah)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jrowah) and on my [blog](https://jrowah.com/blog)
 
 - 💬 Ask me about **React, Node, AI**
 
