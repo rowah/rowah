@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm James Rowa</h1>
-<h3 align="center">A community and self-taught and passionate software developer from Nairobi, Kenya</h3>
+<h3 align="center">A self-taught and passionate software developer from Nairobi, Kenya</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on [Product Expiry Tracker App](https://github.com/rowah/product-expiry-tracker-app)
+- 🔭 I’m currently working on [A Bank System](https://github.com/rowah/ATBank)
 
 - 🌱 I’m currently learning **Elixir**
 
