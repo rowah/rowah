@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on [A Bank System](https://github.com/rowah/ATBank)
+- 🔭 I’m currently working on [A Travel Blog Application](https://github.com/rowah/travel_blog)
 
 - 🌱 I’m currently learning **Elixir**
 
