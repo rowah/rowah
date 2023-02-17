@@ -4,9 +4,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on [A Travel Blog Application](https://github.com/rowah/travel_blog)
+- 🔭 I’m currently working on the Phoenix version of my [PTracker App](https://product-expiry-tracker.cyclic.app/) on this [Repository](https://github.com/rowah/ptracker_phoenix) and [A Travel Blog Application](https://github.com/rowah/travel_blog)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir** and **Python**
 
 - 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.com)
 
@@ -16,7 +16,7 @@
 
 - 📫 Reach me through **jrowah@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ofgxq3MV0ODsi8qMP7lLieHfpfoTzEdm/view?usp=share_link)
+- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1ofgxq3MV0ODsi8qMP7lLieHfpfoTzEdm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
