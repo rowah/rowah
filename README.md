@@ -16,7 +16,7 @@
 
 - 📫 Reach me through **jrowah@gmail.com**
 
-- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1ofgxq3MV0ODsi8qMP7lLieHfpfoTzEdm/view?usp=share_link)
+- 📄 Know about my experience on my [Resume](https://drive.google.com/file/d/1ofgxq3MV0ODsi8qMP7lLieHfpfoTzEdm/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
