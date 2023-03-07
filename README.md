@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jrowah) and on my [blog](https://jrowah.com/blog)
 
-- 💬 Ask me about **Functional Programming, AI, Chemistry**
+- 💬 Ask me about **Functional Programming, AI, Science**
 
 - 📫 Reach me through **jrowah@gmail.com**
 
