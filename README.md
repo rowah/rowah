@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on the Phoenix version of my [PTracker App](https://product-expiry-tracker.cyclic.app/) on this [Repository](https://github.com/rowah/ptracker_phoenix) and a [Twitter clone](https://github.com/rowah/twitter_clone)
+- 🔭 I’m currently working on [devfinder App](https://devfinder.fly.dev/) on this [Repository](https://github.com/rowah/dev_finder) and a [Twitter clone](https://github.com/rowah/twitter_clone)
 
 - 🌱 I’m currently learning **Elixir** and **Python**
 
