@@ -4,9 +4,9 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on [devfinder App](https://devfinder.fly.dev/) on this [Repository](https://github.com/rowah/dev_finder) and a [Twitter clone](https://github.com/rowah/twitter_clone)
+- 🔭 I’m currently working on [devfinder App](https://devfinder.fly.dev/) on this [Repository](https://github.com/rowah/dev_finder) and a [Invoice Generator](https://github.com/rowah/easy_bills)
 
-- 🌱 I’m currently learning **Elixir** and **Python**
+- 🌱 I’m currently learning **Phoenix LiveView** and **Python**
 
 - 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.com)
 
