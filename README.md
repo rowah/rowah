@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rowah" alt="rowah" /></a> </p>
  -->
 
-- 🔭 I’m currently working on [EasyBills App](https://easy-bills.fly.dev/) on this [Repository](https://github.com/rowah/easy_bills) and a game [BattleShip](https://github.com/rowah/easy_bills).
+- 🔭 I’m currently working on [EasyBills App](https://easy-bills.fly.dev/) on this [Repository](https://github.com/rowah/easy_bills) and a game [BattleShip](https://github.com/rowah/BattleShip).
 
 - 🌱 I’m currently learning **Phoenix LiveView** and **Python**
 
