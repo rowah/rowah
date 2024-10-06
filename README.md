@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Phoenix LiveView** and **Python**
 
-- 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.com)
+- 👨‍💻 All of my projects are available at [jrowah.com](https://jrowah.fly.dev)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@jrowah) and on my [blog](https://jrowah.com/blog)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jrowah) and on my [blog](https://jrowah.fly.dev/blog)
 
 - 💬 Ask me about **Functional Programming, AI, Science**
 
